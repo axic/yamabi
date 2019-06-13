@@ -1,0 +1,15 @@
+{
+  "name": "yamabi",
+  "version": "0.0.0",
+  "description": "Ethereum Contract ABI tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Beregszasi <alex@rtfs.hu>",
+  "homepage": "https://github.com/axic/yamabi",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "yaml": "^1.6.0"
+  }
+}
